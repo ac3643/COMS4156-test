@@ -4,6 +4,9 @@
 Created on Wed Sep 25 14:55:42 2019
 
 @author: sofiacalatrava
+
+
+Comment added on Thu Sep 9th
 """
 
 import random 
